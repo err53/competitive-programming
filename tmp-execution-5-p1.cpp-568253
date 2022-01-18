@@ -1,0 +1,20 @@
+-=[ Output of case 1 of p1.cpp ]=-
+Execution ID: 5
+
+== Case 1: Correct =====
+Time: 2ms
+Memory: 0kb
+Exit Code: 0
+
+- Input ---
+4
+6 4 9 7 3
+5 2 4 1
+
+- Actual Output ---
+75
+
+- Expected Output ---
+75
+- Error Stream ---
+
